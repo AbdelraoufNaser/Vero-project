@@ -18,9 +18,6 @@
 
     <br><br><br>
     
-    <div v-for="item in items">
-      {{item.text}}
-    </div>
     <br><br><br>
 
     <h2>{{title}}</h2>
